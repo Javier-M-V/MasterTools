@@ -1,4 +1,4 @@
-package com.mastertools.mastertools;
+package com.mastertools.activities;
 
 import org.junit.Test;
 
